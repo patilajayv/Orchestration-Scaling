@@ -67,7 +67,7 @@ Push the Docker images to their respective ECR repositories.
 
 Hello Microservice: https://gallery.ecr.aws/c3w1m1q2/ajaybe11
 
-Profile Microservice: https://gallery.ecr.aws/c3w1m1q2/profile_service_adarsh
+Profile Microservice: https://gallery.ecr.aws/c3w1m1q2/ajaybe12
 
 Frontend Microservice: https://gallery.ecr.aws/c3w1m1q2/fe1
 
