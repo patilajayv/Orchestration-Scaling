@@ -37,11 +37,29 @@ Before you begin, ensure you have:
 Boto3 uses the credentials stored by AWS CLI. If AWS CLI is configured, no additional steps are required for Boto3.
 
 ## 3. containerized using Docker
-clone repo https://github.com/UnpredictablePrashant/SampleMERNwithMicroservices.git
+use
+ ```bash
+git clone  https://github.com/UnpredictablePrashant/SampleMERNwithMicroservices.git
+```
 ### Front end
 - Navigate to SampleMERNwithMicroservices/frontend.
 - Use [Dockerfile](https://github.com/patilajayv/Orchestration-Scaling/blob/main/frontend/Dockerfile) create container
 -Use commnad
  ```bash
-Sudo docker build -t frontendimage .
+Sudo docker build -t frontendimage . 
+```
+### Backend end
+- Navigate to SampleMERNwithMicroservices/backend/helloService.
+- Use [Dockerfile](https://github.com/patilajayv/Orchestration-Scaling/blob/main/backend/helloService/Dockerfile) create container
+-Use commnad
+ ```bash
+Sudo docker build -t backendhelloimg .
+```
+- Navigate to SampleMERNwithMicroservices/backend/helloService.
+- Use [Dockerfile](https://github.com/patilajayv/Orchestration-Scaling/blob/main/backend/helloService/Dockerfile) create container
+-Use commnad
+ ```bash
+Sudo docker build -t backendhelloimg .
+```
+
 
