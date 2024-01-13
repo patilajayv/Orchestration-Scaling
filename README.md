@@ -55,11 +55,11 @@ Sudo docker build -t frontendimage .
  ```bash
 Sudo docker build -t backendhelloimg .
 ```
-- Navigate to SampleMERNwithMicroservices/backend/helloService.
-- Use [Dockerfile](https://github.com/patilajayv/Orchestration-Scaling/blob/main/backend/helloService/Dockerfile) create container
+- Navigate to SampleMERNwithMicroservices/backend/profile.
+- Use [Dockerfile](https://github.com/patilajayv/Orchestration-Scaling/blob/main/backend/profile/Dockerfile) create container
 -Use commnad
  ```bash
-Sudo docker build -t backendhelloimg .
+Sudo docker build -t backendprofileimg .
 ```
 
 
