@@ -36,3 +36,4 @@ Before you begin, ensure you have:
 
 Boto3 uses the credentials stored by AWS CLI. If AWS CLI is configured, no additional steps are required for Boto3.
 
+## 3. containerized using Docker
