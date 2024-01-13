@@ -69,6 +69,5 @@ Hello Microservice: https://gallery.ecr.aws/c3w1m1q2/hello_service_adarsh
 
 Profile Microservice: https://gallery.ecr.aws/c3w1m1q2/profile_service_adarsh
 
-Frontend Microservice: https://gallery.ecr.aws/c3w1m1q2/frontend_service_adarsh
-
+Frontend Microservice: https://gallery.ecr.aws/c3w1m1q2/fe1
 
