@@ -65,7 +65,7 @@ Create an Amazon ECR repository for each image.
 
 Push the Docker images to their respective ECR repositories.
 
-Hello Microservice: https://gallery.ecr.aws/c3w1m1q2/hello_service_adarsh
+Hello Microservice: https://gallery.ecr.aws/c3w1m1q2/ajaybe11
 
 Profile Microservice: https://gallery.ecr.aws/c3w1m1q2/profile_service_adarsh
 
