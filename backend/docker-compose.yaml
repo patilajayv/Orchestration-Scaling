@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  helloservice:
+    build:
+      context: ./helloService
+      dockerfile: Dockerfile
+    container_name: hello-service-container
+    ports:
+      - "3001:3001"
+    image: your-custom-helloservice-image-name
+  profileservice:
+    build:
+      context: ./profileService
+      dockerfile: Dockerfile
+    container_name: profile-service-container
+    ports:
+      - "3002:3002"
+    image: your-custom-profileervice-image-name
