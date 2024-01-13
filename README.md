@@ -43,5 +43,5 @@ clone repo https://github.com/UnpredictablePrashant/SampleMERNwithMicroservices.
 - Use [Dockerfile](https://github.com/patilajayv/Orchestration-Scaling/blob/main/frontend/Dockerfile) create container
 -Use commnad
  ```bash
-Sudo docker build -t FrontendImage .
+Sudo docker build -t frontendimage .
 
