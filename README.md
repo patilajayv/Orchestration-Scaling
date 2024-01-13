@@ -61,5 +61,14 @@ Sudo docker build -t backendhelloimg .
  ```bash
 Sudo docker build -t backendprofileimg .
 ```
+Create an Amazon ECR repository for each image.
+
+Push the Docker images to their respective ECR repositories.
+
+Hello Microservice: https://gallery.ecr.aws/c3w1m1q2/hello_service_adarsh
+
+Profile Microservice: https://gallery.ecr.aws/c3w1m1q2/profile_service_adarsh
+
+Frontend Microservice: https://gallery.ecr.aws/c3w1m1q2/frontend_service_adarsh
 
 
