@@ -40,4 +40,4 @@ Boto3 uses the credentials stored by AWS CLI. If AWS CLI is configured, no addit
 clone repo https://github.com/UnpredictablePrashant/SampleMERNwithMicroservices.git
 ### Front end
 Navigate to SampleMERNwithMicroservices/frontend 
-User  [Dockerfile](https://github.com/patilajayv/Orchestration-Scaling/blob/main/frontend/Dockerfile) create container 
+Use [Dockerfile](https://github.com/patilajayv/Orchestration-Scaling/blob/main/frontend/Dockerfile) create container 
